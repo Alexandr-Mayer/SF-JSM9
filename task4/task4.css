@@ -1,0 +1,38 @@
+body {
+    background-color: aqua;
+}
+.container {
+    width: 300px;
+}
+.button {
+    display: flex;
+    width: 200px;
+    height: 50px;
+    align-items: center;
+    order: 2px solid rgba(25, 25, 25, 0.1);
+    justify-content: center;
+    background-color: rgba(216, 219, 26, 0.479);
+    margin-top: 20px;
+    cursor: pointer;
+}
+.press_me {
+    font-size: large;
+}
+.input {
+    margin-bottom: 20px;
+    width: 192px;
+}
+.result {
+    display: flex;
+    margin-top: 20px;
+    justify-content: space-between;
+}
+.card {
+    width: 200px;
+    height: 200px;
+    margin-right: 10px;
+}
+/*.card-image {
+    width: 100%;
+    height: 100%;
+}*/
